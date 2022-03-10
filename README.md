@@ -1,6 +1,6 @@
 # AMC
 
-2021 XDU graduation paper code
+2021 Graduation paper code
 
 ## Requirements
 
