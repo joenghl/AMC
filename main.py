@@ -142,6 +142,7 @@ if __name__ == '__main__':
     parser.add_argument("--use_gpu", default=True, type=bool)
 
     # test
+    # 123
     config = parser.parse_args()
     # test
     run(config)
