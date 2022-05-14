@@ -141,7 +141,7 @@ if __name__ == '__main__':
     parser.add_argument("--reward_scale", default=100., type=float)
     parser.add_argument("--use_gpu", default=True, type=bool)
 
+    # test
     config = parser.parse_args()
     # test
-    # test2
     run(config)
